@@ -68,7 +68,6 @@
 
 
 
-
 |    |    |   |   |   |   |    |
 |:-:| :-:|:-:|:-:|:-:|:-:| :-:|
 |:smile: |:smiley:|:heart_eyes:|:smirk:|:kissing_heart:|:flushed:|:stuck_out_tongue_winking_eye:
@@ -97,7 +96,6 @@
 
 #### 缩略：
 
-
 *[HTML]: 超文本标记语言
 *[W3C]:  World Wide Web Consortium
 The HTML specification
@@ -114,7 +112,6 @@ is maintained by the W3C.
 ==marked==
 
 ### 1.5 外链接
-
 
 这是去往 [百度](http://baidu.com) 的链接。
 我的邮箱：<siriusing.cc@qq.com>
@@ -272,8 +269,8 @@ $$\sum_{i=1}^n a_i=0$$
 
 
 
-|功能		  	| 语法   | 
-|--------		| -----:  | 
+|功能		  	| 语法   |
+|--------		| -----:  |
 | 括号|	直接()[] $ \{ x  \} $|
 | 括号匹配大小	|	$\left(\frac{\sqrt x}{y^3}\right)$
 | 绝对值,∥x∥ ⟨x⟩|	$\vert x \vert $ $\Vert x \Vert$ $\langle x \rangle$
@@ -369,7 +366,7 @@ $$ \left(\frac{\sqrt x}{y^3}\right)$$
 ##### 等式
 
 $$
-	\begin{aligned}
+\begin{aligned}
 		a &= b + c \\
 		&= d + e + f + g \\
 		&= h + i
@@ -435,7 +432,6 @@ $$ \left[
 \right] 
 $$
 
-
 $$
   f(n) =
 \begin{cases}
@@ -443,7 +439,6 @@ n/2,  & \text{if $n$ is even} \\
 3n+1, & \text{if $n$ is odd}
 \end{cases}
 $$
-
 
 $$
 \left.
@@ -455,8 +450,6 @@ $$
 =f(n)
 $$
 
-
-
 ##### 上下行的间距调整 ex
 $$
 f(n) =
@@ -465,7 +458,6 @@ f(n) =
 3n+1, & \text{if $n$ is odd}
 \end{cases}
 $$
-
 
 $$
 \left\{ 
@@ -476,9 +468,8 @@ a_3x+b_3y+c_3z=d_3
 \end{array}
 \right. 
 $$
-
 #### aligned 对齐
-$$ 
+$$
 \left\{
 \begin{aligned} 
 a_1x+b_1y+c_1z &=d_1+e_1 \\ 
@@ -487,8 +478,6 @@ a_3x+b_3y+c_3z &=d_3
 \end{aligned} 
 \right. 
 $$
-
-
 #### 继续用em调整行距
 $$\begin{cases}
 a_1x+b_1y+c_1z=d_1 \\[2ex] 
@@ -509,6 +498,8 @@ $\color{blue}{blueText}$，$\color{navy}{navyText}$
 $\color{purple}{purpleText}$，$\color{fuchsia}{fuchsiaText}$
 
 
+
+$\color{purple}{草拟吗}$
 
 
 ## 5. 流程图
@@ -785,3 +776,5 @@ Markdown Preview Enhanced:Customize CSS
 }
 
 ```
+
+[^keyword]: 

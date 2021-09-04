@@ -26,8 +26,7 @@
 
 
 
-
-###Redis
+###  Redis
 
 redis放弃传统的sql语句和ACID保证
 + Redis 将数据储存在内存里面，读写数据的时候都不受硬盘 I/O 速度的限制
